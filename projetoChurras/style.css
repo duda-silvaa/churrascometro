@@ -1,0 +1,23 @@
+.container{
+    max-width: 400px;
+    margin: auto;
+    background-color: violet;
+    padding: 50px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    margin-top: 0;
+    text-align: center;
+    
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 6px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
